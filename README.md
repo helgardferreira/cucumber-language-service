@@ -2,6 +2,9 @@
 
 # Cucumber Language Service
 
+<!-- Emphasize that this repo is just a temporary repo until the main package is updated -->
+!!!THIS IS A TEMPORARY PACKAGE UNTIL THE MAIN CUCUMBER LANGUAGE SERVICE IS UPDATED!!!
+
 This library implements the services used by [Cucumber Language Server](https://github.com/cucumber/language-server#readme)
 and [Cucumber Monaco](https://github.com/cucumber/monaco#readme).
 
